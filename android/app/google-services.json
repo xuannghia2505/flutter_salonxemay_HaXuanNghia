@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768340393722",
+    "project_id": "loginqlxe",
+    "storage_bucket": "loginqlxe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768340393722:android:961b305eb4f79b36085343",
+        "android_client_info": {
+          "package_name": "com.example.qlsuabanxe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768340393722-tio78s6j7mnm1envrv69pa66e16spkgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNs_Kf4SO94UuM3Kw1SN32Y6Opt_AgcM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768340393722-tio78s6j7mnm1envrv69pa66e16spkgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
